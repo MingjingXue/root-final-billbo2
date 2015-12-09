@@ -1,0 +1,80 @@
+label {
+	 
+
+}
+
+.login {
+	font-size: 150%;
+	color:darkcyan; 
+	padding:5px;
+}
+
+.home-img {
+	width: 100%;
+}
+
+.container-fluid {
+	padding-right: 0;
+    padding-left: 0;
+    margin-right: 0;
+    margin-left: 0;
+
+}
+/*.navbar-collapse {
+	
+    margin-right: -15px;
+     margin-left: 10px; 
+}*/
+.navbar-header{
+	padding-right: 10px;
+    padding-left: 10px;
+}
+
+.nav {
+	padding-right: 10px;
+    padding-left: 10px;
+    /*font-family: 'Quicksand', sans-serif;*/
+
+}
+
+.navbar-brand {
+	/*font-family: 'Quicksand', sans-serif;*/
+}
+
+.jumbotron {
+
+	background-color: rgb(224,239,241);
+}
+footer {
+	padding:10px;
+	background-color:rgb(74,49,70);
+	color:gray;
+
+}
+footer p {
+	color:white;
+}
+h4 {
+	/*font-family: 'Megrim', cursive;*/
+	color:rgb(74,49,70);
+}
+
+p {
+	/*font-family: 'Quicksand', sans-serif;*/
+	
+}
+.text {
+	border:1px solid rgb(246,246,246);
+	height: 168px;
+	background-color: rgb(246,246,246);
+	
+}
+
+img {
+	width: 100px;
+}
+
+
+
+
+

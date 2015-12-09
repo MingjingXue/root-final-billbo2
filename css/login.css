@@ -1,0 +1,42 @@
+
+.main-container {
+	width: 55.5555%;
+	margin-left:auto;
+	margin-right: auto;
+}
+.form-signin-heading {
+	color:rgb(117,66,99);
+}
+
+.billsdiv {
+	
+	width:66.6666%;
+	margin-left:auto;
+	margin-right: auto;
+	color:DarkSlateBlue;
+
+}
+span {
+	color:darkcyan;
+}
+.navbar-brand {
+	/*font-family: 'Quicksand', sans-serif;*/
+}
+
+.bill-list {
+	color:DarkSlateBlue;
+	font-family: 'Quicksand', sans-serif;
+}
+
+.form-signin {
+	max-width:330px;
+	margin-top: 160px;
+	margin-bottom: 330px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Quicksand', sans-serif;
+}
+.btn {
+	background:rgb(74,49,70);;
+	color:white;
+}

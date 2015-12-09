@@ -1,0 +1,22 @@
+{ "results": [
+	{
+        "ACL": {
+            "eUY8Ihyi9k": {
+                "read": true,
+                "write": true
+            }
+        },
+        "createdAt": "2015-10-09T21:40:43.345Z",
+        "email": "xuexiaoming910@gmail.com",
+        "instacheckImg": {
+            "__type": "File",
+            "name": "bill.jpg",
+            "url": "http://files.parsetfss.com/bill.jpg"
+        },
+        "instacheckItems": "Duck Fried Rice 10.95\n\nDuck Fried Rice 10.95\n\nThai Iced Tea: 3.50\n\nSub Total: 25.40\n\nDiscount(10%): -2.54\n\n Tax: 2.00\n\nTotai: 24.86\n\nTip: 3.73\n\nAmount Due: 28.59",
+        "objectId": "Jixu3b9kYl",
+        "updatedAt": "2015-10-15T21:40:43.345Z"
+    }
+] }
+
+
